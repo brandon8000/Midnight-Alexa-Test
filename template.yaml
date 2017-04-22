@@ -1,0 +1,17 @@
+welcome: |
+  sample_special_awesome_skill.
+
+welcome_re: |
+  sample_special_awesome_skill. How may I help you?
+
+welcome_card: |
+  sample_special_awesome_skill is an Alexa skill written by b-rad. An example Alexa skill that does nothing you can't find anywhere else
+
+stop_bye: |
+  Goodbye!
+
+cancel_bye: |
+  OK, goodbye!
+
+help_text: |
+  sample_special_awesome_skill is an Alexa skill that does things. This is where the developer would normally explain how to do them.

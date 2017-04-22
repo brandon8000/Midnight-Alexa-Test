@@ -1,0 +1,7 @@
+AMAZON.StopIntent enough
+AMAZON.CancelIntent cancel
+AMAZON.HelpIntent assistance
+AMAZON.NoIntent no
+AMAZON.YesIntent yes
+AMAZON.PreviousIntent previous
+AMAZON.StartOverIntent again
